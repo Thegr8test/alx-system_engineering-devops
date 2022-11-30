@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-alx shell project 2
+readme file for the shell project
