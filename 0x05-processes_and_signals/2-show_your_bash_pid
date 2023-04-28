@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# displays list of curren programs running
+# shellcheck disable=SC2009
+
+ps auxf | grep bash
