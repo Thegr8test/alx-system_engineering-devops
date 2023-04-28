@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# parses apache logs in list frmt
+
+myfile="apache-access.log"
+awk -F' ' '{ print $1, $9}' $myfile
