@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# shows listening dockets with PID and program name
+
+netstat -lp
